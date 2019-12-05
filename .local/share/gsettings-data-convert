@@ -1,3 +1,8 @@
 [State]
+<<<<<<< HEAD
 timestamp=1575495988
 converted=gedit.convert;logview.convert;org.gnome.seahorse.manager.convert;mousetweaks.convert;org.gnome.crypto.pgp.convert;update-manager.convert;evolution-data-server.convert;file-roller.convert;org.gnome.Vino.convert;org.gnome.crypto.pgp_keyservers.convert;gsettings-desktop-schemas.convert;wm-schemas.convert;opensubtitles.convert;update-notifier.convert;libgnomekbd.convert;gnome-settings-daemon.convert;totem.convert;notify-osd.convert;ibus.convert;shotwell.convert;org.gnome.crypto.cache.convert;deja-dup.convert;gnome-user-share.convert;gvfs-dns-sd.convert;gvfs-smb.convert;metacity-schemas.convert;org.gnome.seahorse.convert;geoclue;eog.convert;evince.convert;pythonconsole.convert;gnome-session.convert;nautilus.convert;nm-applet.convert;gnome-screenshot.convert;
+=======
+timestamp=1575140683
+converted=ibus.convert;org.gnome.Vino.convert;org.gnome.seahorse.convert;metacity-schemas.convert;gedit.convert;empathy.convert;org.gnome.Vinagre.convert;org.gnome.seahorse.manager.convert;evince.convert;folks.convert;brasero.convert;mutter-schemas.convert;logview.convert;gsettings-desktop-schemas.convert;eog.convert;totem.convert;mousetweaks.convert;gvfs-dns-sd.convert;evolution-data-server.convert;gnome-session.convert;gnome-shell-overrides.convert;gnome-screenshot.convert;org.gnome.crypto.pgp.convert;gnome-settings-daemon.convert;org.gnome.crypto.pgp_keyservers.convert;gvfs-smb.convert;org.gnome.crypto.cache.convert;libgnomekbd.convert;org.gnome.packagekit.gschema.migrate;wm-schemas.convert;
+>>>>>>> c271bd55138810e304e8f0ecbd2ccb376fa4974e

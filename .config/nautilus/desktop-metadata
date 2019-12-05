@@ -1,3 +1,23 @@
 [directory]
 nautilus-icon-view-keep-aligned=true
+<<<<<<< HEAD
 nautilus-icon-view-layout-timestamp=1575495995
+=======
+nautilus-icon-view-layout-timestamp=1575402727
+nautilus-desktop-icon-size=96
+
+[home]
+nautilus-icon-position-timestamp=1575402727
+nautilus-icon-position=56,26
+icon-scale=1
+
+[trash]
+nautilus-icon-position-timestamp=1575402727
+nautilus-icon-position=56,126
+icon-scale=1
+
+[CentOS 7 x86_64.volume]
+nautilus-icon-position=56,226
+icon-scale=1
+nautilus-icon-position-timestamp=1575402727
+>>>>>>> c271bd55138810e304e8f0ecbd2ccb376fa4974e

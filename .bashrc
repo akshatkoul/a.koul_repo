@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -115,3 +116,16 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+=======
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# Uncomment the following line if you don't like systemctl's auto-paging feature:
+# export SYSTEMD_PAGER=
+
+# User specific aliases and functions
+>>>>>>> c271bd55138810e304e8f0ecbd2ccb376fa4974e

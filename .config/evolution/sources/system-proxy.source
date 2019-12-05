@@ -1,6 +1,23 @@
 
 [Data Source]
 DisplayName=Default Proxy Settings
+<<<<<<< HEAD
+=======
+DisplayName[cs]=Výchozí nastavení proxy
+DisplayName[de]=Standard-Proxy-Einstellungen
+DisplayName[fr]=Paramètres du serveur mandataire par défaut
+DisplayName[hu]=Alapértelmezett proxybeállítások
+DisplayName[id]=Pengaturan Proksi Bawaan
+DisplayName[it]=Impostazioni proxy predefinite
+DisplayName[lt]=Numatytieji tarpinio serverio nustatymai
+DisplayName[lv]=Noklusējuma starpnieka iestatījumi
+DisplayName[nl]=Standaard proxy-instellingen
+DisplayName[pl]=Domyślne ustawienia pośrednika
+DisplayName[pt_BR]=Configurações padrão de proxy
+DisplayName[sl]=Privzete nastavitve posredniškega strežnika
+DisplayName[sv]=Standardproxyinställningar
+DisplayName[tr]=Öntanımlı Vekil Sunucu Ayarları
+>>>>>>> c271bd55138810e304e8f0ecbd2ccb376fa4974e
 Enabled=true
 Parent=
 
